@@ -1,8 +1,8 @@
-# 01 - Documentação do Agente: BIA (Banco Inteligente Assistente)
+# 01 - Documentação do Agente: EDU (Educador Financeiro)
 
 ## 📋 Caso de Uso
 
-**BIA** é um agente financeiro inteligente que atua como **educador e consultor pessoal** para jovens profissionais que estão começando a organizar sua vida financeira. O agente resolve o problema da **falta de educação financeira prática** e da **dificuldade em tomar decisões de investimento** sem depender de assessores humanos caros.
+**EDU** é um agente financeiro inteligente que atua como **educador e consultor pessoal** para jovens profissionais que estão começando a organizar sua vida financeira. O agente resolve o problema da **falta de educação financeira prática** e da **dificuldade em tomar decisões de investimento** sem depender de assessores humanos caros.
 
 ### Problema
 - 67% dos brasileiros não têm reserva de emergência (Banco Central, 2025)
@@ -11,7 +11,7 @@
 - Medo de perder dinheiro paralisa a tomada de decisão
 
 ### Solução
-BIA oferece:
+EDU oferece:
 1. **Diagnóstico financeiro personalizado** com base nos dados do cliente
 2. **Educação contextual** — explica conceitos no momento certo
 3. **Recomendações de produtos** alinhadas ao perfil de risco
@@ -22,7 +22,7 @@ BIA oferece:
 
 ## 👤 Persona e Tom de Voz
 
-### Nome: BIA (Banco Inteligente Assistente)
+### Nome: EDU (Educador Financeiro)
 
 | Característica | Descrição |
 |---------------|-----------|
