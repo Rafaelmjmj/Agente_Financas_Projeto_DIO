@@ -138,6 +138,6 @@ EDU oferece:
 
 ---
 
-*Documento criado em: Julho/2026*
+*Documento criado em: Agosto/2026*
 *Versão: 1.0*
-*Autor: Projeto BIA - DIO Lab*
+*Autor: Projeto EDU - DIO Lab*
