@@ -1,4 +1,4 @@
-# 🤖 BIA — Banco Inteligente Assistente
+# 🤖 EDU — Educador Financeiro
 
 > **Agente Financeiro Inteligente com IA Generativa**  
 > Projeto desenvolvido para o Lab "Construa Seu Assistente Virtual Com Inteligência Artificial" da [DIO](https://www.dio.me/)
@@ -7,16 +7,16 @@
 
 ## 👨‍💻 Autor
 
-**Kelvin Oliveira**  
-[LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-0282033b4/) | [GitHub](https://github.com/KelvinOliveiraCode)
+**Rafael Machado**  
+[LinkedIn](https://www.linkedin.com/in/rafael-machado-62332b239/) 
 
 ---
 
 ## 🎯 Sobre o Projeto
 
-**BIA** é um assistente virtual financeiro que utiliza IA generativa para educar e orientar jovens profissionais na jornada de organização financeira e investimentos. Diferente de chatbots tradicionais reativos, BIA é **proativa, personalizada e segura** — antecipando necessidades com base nos dados reais do cliente.
+**EDU** é um assistente virtual financeiro que utiliza IA generativa para educar e orientar jovens profissionais na jornada de organização financeira e investimentos. Diferente de chatbots tradicionais reativos, EDU é **proativo, personalizado e seguro** — antecipando necessidades com base nos dados reais do cliente.
 
-### O que BIA faz:
+### O que EDU faz:
 - 💰 **Analisa gastos** com base no histórico de transações
 - 📈 **Recomenda investimentos** alinhados ao perfil de risco
 - 🎯 **Acompanha metas** financeiras com projeções
@@ -49,7 +49,7 @@ Usuario (Chat/App)
 ## 📁 Estrutura do Repositório
 
 ```
-dio-lab-bia-do-futuro/
+dio-lab-EDU-do-futuro/
 |
 ├── README.md                          # Este arquivo
 |
@@ -88,8 +88,8 @@ dio-lab-bia-do-futuro/
 
 ```bash
 # Clone o repositorio
-git clone https://github.com/KelvinOliveiraCode/dio-lab-bia-do-futuro.git
-cd dio-lab-bia-do-futuro
+git clone https://github.com/KelvinOliveiraCode/dio-lab-EDU-do-futuro.git
+cd dio-lab-EDU-do-futuro
 
 # Crie um ambiente virtual (opcional, mas recomendado)
 python -m venv venv
@@ -133,7 +133,7 @@ A aplicação estará disponível em `http://localhost:8501`
 
 ## 🛡️ Segurança e Anti-Alucinação
 
-BIA implementa **4 camadas de segurança**:
+EDU implementa **4 camadas de segurança**:
 
 1. **System Prompt** com regras de ouro (nunca inventar produtos, sempre citar riscos)
 2. **Pre-processing** que bloqueia dados sensíveis (CPF, senha, cartão)
@@ -187,31 +187,10 @@ BIA implementa **4 camadas de segurança**:
 | LLM | Simulado (pronto para integração com Gemini/OpenAI) |
 | Orquestração | Python nativo (pronto para LangChain) |
 
----
 
-## 📈 Próximos Passos
-
-- [ ] Integrar com API do Google Gemini ou OpenAI para respostas mais naturais
-- [ ] Adicionar gráficos de evolução de metas (Plotly/Matplotlib)
-- [ ] Implementar memória de conversa entre sessões
-- [ ] Adicionar alertas proativos ("Você gastou 30% a mais em lazer")
-- [ ] Criar testes automatizados com pytest
-- [ ] Deploy no Streamlit Cloud
-
----
-
-## 📬 Contato
-
-**Kelvin Oliveira**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-0282033b4/)  
-💻 [GitHub](https://github.com/KelvinOliveiraCode)
-
----
-
-## 📄 Licença
 
 Este projeto é de uso educacional, desenvolvido para fins de aprendizado no bootcamp da DIO.
 
 ---
 
-> *"BIA não é só um chatbot. É o primeiro passo para uma relação bancária verdadeiramente inteligente e personalizada."* 🚀
+> *"EDU não é só um chatbot. É o primeiro passo para uma relação bancária verdadeiramente inteligente e personalizada."* 🚀
