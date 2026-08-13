@@ -1,4 +1,4 @@
-# 05 - Pitch do Projeto BIA
+# 05 - Pitch do Projeto EDU
 
 ## 🎤 Pitch de Elevador — 3 Minutos
 
@@ -16,18 +16,18 @@
 
 ### **SOLUTION — A Solução (60 segundos)**
 
-> **BIA — Banco Inteligente Assistente** — é uma agente de IA generativa que atua como **educador e consultor financeiro pessoal**, disponível 24 horas no celular do cliente.
+> **EDU — Banco Inteligente Assistente** — é uma agente de IA generativa que atua como **educador e consultor financeiro pessoal**, disponível 24 horas no celular do cliente.
 >
-> Diferente de chatbots tradicionais que só respondem FAQs, BIA:
+> Diferente de chatbots tradicionais que só respondem FAQs, EDU:
 > - **Antecipa necessidades** com base no histórico de transações e metas do cliente
 > - **Personaliza cada resposta** usando dados reais do perfil do investidor
 > - **Educa no momento certo** — explica o CDI quando o cliente pergunta sobre CDB
 > - **Recomenda com segurança** — nunca inventa produtos, sempre cita riscos, e inclui disclaimers
 >
 > **Como funciona na prática:**
-> Ana Carolina, desenvolvedora de 29 anos, tem R$ 5.000 sobrando esse mês. Ela pergunta para BIA: *"Onde investir?"*
+> Ana Carolina, desenvolvedora de 29 anos, tem R$ 5.000 sobrando esse mês. Ela pergunta para EDU: *"Onde investir?"*
 >
-> BIA analisa que Ana tem:
+> EDU analisa que Ana tem:
 > - Renda de R$ 8.500 + freelances
 > - Reserva de emergência incompleta (R$ 15.000 de R$ 25.000)
 > - Perfil de risco moderado
@@ -41,16 +41,16 @@
 
 ### **DIFFERENTIATOR — O Que Torna Inovador (45 segundos)**
 
-> O mercado está cheio de robôs de investimento e chatbots bancários. Mas BIA é diferente em 3 pontos:
+> O mercado está cheio de robôs de investimento e chatbots bancários. Mas EDU é diferente em 3 pontos:
 >
 > **1. Grounding em dados reais:**
-> BIA não "alucina" produtos. Ela só recomenda o que existe na base de conhecimento do banco, com rentabilidades, riscos e valores mínimos verificados.
+> EDU não "alucina" produtos. Ela só recomenda o que existe na base de conhecimento do banco, com rentabilidades, riscos e valores mínimos verificados.
 >
 > **2. Educação contextual:**
-> BIA não joga informação. Ela ensina no momento exato em que o cliente precisa — como um professor particular de finanças.
+> EDU não joga informação. Ela ensina no momento exato em que o cliente precisa — como um professor particular de finanças.
 >
 > **3. Segurança por design:**
-> Múltiplas camadas de validação garantem que BIA nunca dê conselho irresponsável. Se não souber, ela admite. Se o risco for alto demais para o perfil, ela alerta.
+> Múltiplas camadas de validação garantem que EDU nunca dê conselho irresponsável. Se não souber, ela admite. Se o risco for alto demais para o perfil, ela alerta.
 >
 > **Resultado:** 99,1% de taxa de respostas seguras em testes, 4.5/5 de satisfação do usuário, e apenas 12% de escalada para humano.
 
@@ -60,11 +60,11 @@
 
 > **O mercado de assistentes virtuais financeiros cresce 25% ao ano.** Mas a maioria ainda é reativa, genérica e insegura.
 >
-> BIA prova que é possível combinar **IA generativa, dados pessoais e segurança** para criar uma experiência que realmente empodera o cliente a tomar decisões financeiras inteligentes.
+> EDU prova que é possível combinar **IA generativa, dados pessoais e segurança** para criar uma experiência que realmente empodera o cliente a tomar decisões financeiras inteligentes.
 >
-> **O próximo passo:** Integrar BIA com APIs de corretoras para execução de ordens, adicionar alertas proativos ("Ana, você gastou 30% a mais em lazer esse mês — quer ajustar o aporte do apartamento?"), e expandir para outros perfis de cliente.
+> **O próximo passo:** Integrar EDU com APIs de corretoras para execução de ordens, adicionar alertas proativos ("Ana, você gastou 30% a mais em lazer esse mês — quer ajustar o aporte do apartamento?"), e expandir para outros perfis de cliente.
 >
-> **BIA não é só um chatbot. É o primeiro passo para uma relação bancária verdadeiramente inteligente e personalizada.**
+> **EDU não é só um chatbot. É o primeiro passo para uma relação bancária verdadeiramente inteligente e personalizada.**
 >
 > Obrigado! 🚀
 
@@ -77,7 +77,7 @@
 | Tempo | Seção | Conteúdo |
 |-------|-------|----------|
 | 0:00-0:30 | Hook | Problema + estatística impactante |
-| 0:30-1:30 | Solution | Apresentação da BIA + demo prática (Ana Carolina) |
+| 0:30-1:30 | Solution | Apresentação da EDU + demo prática (Ana Carolina) |
 | 1:30-2:15 | Differentiator | 3 diferenciais inovadores |
 | 2:15-3:00 | Close | Chamado à ação + visão futura |
 
@@ -85,21 +85,21 @@
 - **Fundo:** Limpo, preferencialmente com identidade visual do projeto
 - **Tom:** Entusiasmado, mas profissional
 - **Velocidade:** Não corra — 3 minutos é tempo suficiente
-- **Visual:** Se possível, mostre a interface do BIA em ação durante a demo
+- **Visual:** Se possível, mostre a interface do EDU em ação durante a demo
 - **Fecha forte:** Termine com a frase sobre "relação bancária inteligente"
 
 ---
 
 ## 🎯 Perguntas Esperadas (Q&A)
 
-**Q: Como BIA evita dar conselhos errados?**
-A: BIA tem 4 camadas de segurança: (1) system prompt com regras de ouro, (2) pré-processamento que bloqueia dados sensíveis, (3) pós-processamento que valida produtos citados, e (4) fallback para "não sei" quando a confiança é baixa.
+**Q: Como EDU evita dar conselhos errados?**
+A: EDU tem 4 camadas de segurança: (1) system prompt com regras de ouro, (2) pré-processamento que bloqueia dados sensíveis, (3) pós-processamento que valida produtos citados, e (4) fallback para "não sei" quando a confiança é baixa.
 
-**Q: E se o cliente quiser investir em algo que BIA não conhece?**
-A: BIA honestamente diz que não tem informação sobre aquele produto e sugere alternativas da base. Nunca inventa.
+**Q: E se o cliente quiser investir em algo que EDU não conhece?**
+A: EDU honestamente diz que não tem informação sobre aquele produto e sugere alternativas da base. Nunca inventa.
 
 **Q: Qual o diferencial para o ChatGPT comum?**
-A: ChatGPT é genérico e pode alucinar. BIA é especializada, grounded em dados reais do cliente e do banco, e projetada com segurança financeira como prioridade.
+A: ChatGPT é genérico e pode alucinar. EDU é especializada, grounded em dados reais do cliente e do banco, e projetada com segurança financeira como prioridade.
 
 **Q: Como escala para milhões de clientes?**
 A: A arquitetura é modular — a base de conhecimento é carregada por cliente, o LLM é via API (Gemini/OpenAI), e a interface pode ser web ou app. Cada cliente tem seu contexto isolado.
@@ -108,4 +108,4 @@ A: A arquitetura é modular — a base de conhecimento é carregada por cliente,
 
 *Documento criado em: Julho/2026*
 *Versão: 1.0*
-*Autor: Projeto BIA - DIO Lab*
+*Autor: Projeto EDU - DIO Lab*
