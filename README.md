@@ -27,21 +27,30 @@
 
 ## 🏗️ Arquitetura
 
-```
-Usuario (Chat/App)
-    |
-    v
-[ Streamlit Interface ]  <--->  [ Python Orquestrador ]
-    |                                    |
-    |                            [ Analise de Dados ]
-    |                                    |
-    +----------------------------+-------+-------+
-                                 |               |
-                         [ Base de Conhecimento ]  [ LLM (Simulado) ]
-                         - transacoes.csv         - Respostas
-                         - perfil_investidor.json   contextualizadas
-                         - produtos_financeiros.json
-                         - historico_atendimento.csv
+```mermaid
+flowchart TD
+    User([👤 Usuário<br/>Chat / App])
+    UI[🖥️ Streamlit Interface]
+    Orq[⚙️ Python Orquestrador]
+    Analise[📊 Análise de Dados<br/>Pandas]
+    Base[(📚 Base de Conhecimento)]
+    LLM[🤖 LLM Simulado<br/>Respostas contextualizadas]
+
+    User <--> UI
+    UI <--> Orq
+    Orq --> Analise
+    Analise --> Base
+    Analise --> LLM
+
+    Base -.- Dados["transacoes.csv<br/>perfil_investidor.json<br/>produtos_financeiros.json<br/>historico_atendimento.csv"]
+
+    style User fill:#2563eb,stroke:#1e40af,color:#fff
+    style UI fill:#0ea5e9,stroke:#0369a1,color:#fff
+    style Orq fill:#8b5cf6,stroke:#6d28d9,color:#fff
+    style Analise fill:#10b981,stroke:#059669,color:#fff
+    style Base fill:#f59e0b,stroke:#d97706,color:#fff
+    style LLM fill:#ef4444,stroke:#dc2626,color:#fff
+    style Dados fill:#f3f4f6,stroke:#9ca3af,color:#374151
 ```
 
 ---
