@@ -2,7 +2,7 @@
 
 ## 📁 Estrutura de Dados
 
-A base de conhecimento do BIA é composta por 4 arquivos principais, todos localizados na pasta `data/`:
+A base de conhecimento do EDU é composta por 4 arquivos principais, todos localizados na pasta `data/`:
 
 ```
 data/
