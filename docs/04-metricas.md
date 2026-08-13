@@ -1,8 +1,8 @@
 # 04 - Avaliação e Métricas
 
-## 📊 Framework de Avaliação do BIA
+## 📊 Framework de Avaliação do EDU
 
-Este documento descreve como avaliamos a qualidade, segurança e eficácia do agente BIA em cada interação.
+Este documento descreve como avaliamos a qualidade, segurança e eficácia do agente EDU em cada interação.
 
 ---
 
@@ -77,7 +77,7 @@ Coerência = Σ(Critério_i × Peso_i) / Σ(Pesos) × 100
 ### 2.1 Satisfação (CSAT) - 1 a 5 estrelas
 
 Coletada após cada interação com a pergunta:
-> "A BIA te ajudou a entender melhor sua situação financeira?"
+> "A EDU te ajudou a entender melhor sua situação financeira?"
 
 **Meta:** Média ≥ 4.2/5.0
 
@@ -170,7 +170,7 @@ Cada interação é avaliada em 5 dimensões (1-5):
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    DASHBOARD BIA - Jul/2026                 │
+│                    DASHBOARD EDU - Jul/2026                 │
 ├─────────────────────────────────────────────────────────────┤
 │  Precisão:        97.3%  ████████████████████░░░  Meta: 95% │
 │  Taxa Segura:     99.1%  █████████████████████░  Meta: 98% │
@@ -230,4 +230,4 @@ Cada interação é registrada com:
 
 *Documento criado em: Julho/2026*
 *Versão: 1.0*
-*Autor: Projeto BIA - DIO Lab*
+*Autor: Projeto EDU - DIO Lab*
