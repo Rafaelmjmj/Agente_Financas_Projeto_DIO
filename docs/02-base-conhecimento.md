@@ -138,7 +138,7 @@ O cliente Ana Carolina tem renda mensal de R$ 8.500 + ~R$ 1.000 em freelances, c
 
 ## 🔗 Integração com o Agente
 
-O agente BIA acessa esses dados através de:
+O agente EDU acessa esses dados através de:
 
 1. **Carregamento em memória** no início da sessão (JSON → dict, CSV → DataFrame)
 2. **Consultas filtradas** por categoria, data ou valor
@@ -168,4 +168,4 @@ A base pode crescer com:
 
 *Documento criado em: Julho/2026*
 *Versão: 1.0*
-*Autor: Projeto BIA - DIO Lab*
+*Autor: Projeto EDU - DIO Lab*
